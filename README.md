@@ -1,12 +1,12 @@
-Bitcoin Core integration/staging tree
+Bitcoin.org
 =====================================
 
-https://bitcoincore.org
+https://bitcoin.org
 
 For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
+https://bitcoin.org/en
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+Further information about Bitcoin is available in the [doc folder](/doc).
 
 What is Bitcoin?
 ----------------
@@ -14,7 +14,7 @@ What is Bitcoin?
 Bitcoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
+out collectively by the network. Bitcoin is the name of open source
 software which enables the use of this currency.
 
 For more information read the original Bitcoin whitepaper.
